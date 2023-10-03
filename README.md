@@ -47,4 +47,6 @@ HTML5 Geolocation API
 
 # Preview
 <br>
-![image](https://github.com/dimicodes/geolocation-bird-tracker/assets/45632694/d381fbaa-cce2-4392-9bff-3d0ea3185ccb)
+
+![image](https://github.com/dimicodes/geolocation-bird-tracker/assets/45632694/f446920c-78b7-441e-ab10-8c6223a9d25f)
+
